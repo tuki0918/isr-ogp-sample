@@ -1,2 +1,3 @@
-# ISR Sample
-Next.jsのISRの挙動を確認するためのサンプルプログラムです。
+# ISR OGP Sample
+
+動的OGPを生成するサンプルコードです
